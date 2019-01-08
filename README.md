@@ -24,3 +24,7 @@ Step 4 - Configure Eclipse IDE with WebDriver
     Java Development Kit (JDK). http://www.oracle.com/technetwork/java/javase/downloads/index.html
     Eclipse IDE - http://www.eclipse.org/downloads/
     Java Client Driver - http://seleniumhq.org/download/ 
+
+
+Execute the file entitled Project_Code.java present in the directory by filling your details wherever specified.
+
