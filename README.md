@@ -28,3 +28,7 @@ Step 4 - Configure Eclipse IDE with WebDriver
 
 Execute the file entitled Project_Code.java present in the directory by filling your details wherever specified.
 
+Most of the required jar files for step 3 are placed in Req_jar_files.zip file which is needed to be extracted.
+
+Configurating Eclipse IDE with webdriver can be done with chromedriver.exe file present in the same working directory.
+
